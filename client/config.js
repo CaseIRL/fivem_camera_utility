@@ -1,0 +1,1 @@
+const copy_to_lua = false // If false will copy camera data in JS format if true will copy in LUA format
